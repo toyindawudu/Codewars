@@ -42,3 +42,38 @@ function enough(cap, on, wait) {
 
 // CHALLENGE NUMBER 2
 
+
+
+function litres(time) {
+  // create a variable to store the result
+  let result = 0;
+  // 1 = 0.5 litres
+  // 2 = 2 * 0.5 
+  // 1.5 litres = 1.5 * 0.5
+  // 6 litres = 
+  // Create control logic for the amount of litres drank based on time
+  
+let realTime = Math.floor(time);
+
+  if (realTime > 1.1) {
+    return Math.floor(realTime * 0.5);
+  } else if (realTime < 1.1) { 
+    return 0;
+    }
+
+    return result;
+}
+
+console.log (litres(4));
+console.log (litres(4.5));
+console.log (litres(5.7));
+console.log (litres(8965.2));
+
+
+/* Another Solution
+
+function litres(time) {
+  return Math.floor(time * 0.5);
+}
+*/
+
