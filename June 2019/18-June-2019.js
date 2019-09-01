@@ -42,3 +42,4 @@ function finalGrade (exam, projects) {
 
   console.log(finalGrade(98, 14));
   console.log(finalGrade(8, 14));
+  console.log(finalGrade(51, 4));
