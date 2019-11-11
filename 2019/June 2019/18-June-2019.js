@@ -16,7 +16,7 @@ This function should return a number (final grade). There are four types of fina
 function finalGrade (exam, projects) {
 
   // Psuedo-code 
-  //create a result for the final grade
+  // create a result for the final grade
   // if statement
   // return 
   
