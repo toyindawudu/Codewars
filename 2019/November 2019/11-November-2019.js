@@ -30,11 +30,10 @@ function bmi(weight,height) {
 
 }
 
-console.log (bmi (50, 1.50));
+//console.log (bmi (50, 1.50));
 
-  
 
-// Another Solution
+// Another Solution for checking BMI
 
 /* 
 
@@ -53,3 +52,14 @@ function bmi(weight, height) {
 }
 
 */
+
+function stringToArray(string){
+  // Store the string in a variable 
+  let result = string; 
+  // Split and return the string according to the space in the string
+  return result.split(' ');
+	// code code code
+
+}
+
+console.log(stringToArray('Frank Sawyer'));
