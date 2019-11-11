@@ -37,3 +37,5 @@ function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
     return result;
   }
 }
+
+console.log(goals(23,12,8));
