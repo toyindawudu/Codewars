@@ -30,7 +30,7 @@ function bmi(weight,height) {
 
 }
 
-//console.log (bmi (50, 1.50));
+console.log (bmi (50, 1.50));
 
 
 // Another Solution for checking BMI
