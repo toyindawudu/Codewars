@@ -27,3 +27,27 @@ function Dog(name,color) {
 let terrier = new Dog ( "Sam", "Black");
 
 console.log(terrier); // terrier will inherit the property "numLegs'. This number will ALWAYS be 4
+
+function House(numBedrooms) {
+  this.numBedrooms = numBedrooms;
+}
+
+// Only change code below this line
+
+let myHouse = new House (6);
+
+console.log(myHouse instanceof House); // This result displays true in the browser
+
+function Bird(name) {
+  this.name = name;
+  this.numLegs = 2;
+}
+
+let canary = new Bird("Tweety");
+let ownProps = [];
+// Only change code below this line
+for (let property in canary) {
+  if (canary.hasOwnProperty(property)){
+    ownProps.push(property);
+  }
+}

@@ -6,5 +6,7 @@ This README file is to help me track the coding challenges for the month of Nove
 19 March 2020 
   - Object Oriented Programming: Extend Constructors to Receive Arguments
   - Verify an Object's Constructor with instanceof
+  - Understand Own Properties
+  - Use Prototype Properties to Reduce Duplicate Code
 
 
