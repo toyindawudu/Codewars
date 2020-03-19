@@ -21,3 +21,20 @@ let dog = {
 
 console.log (dog.sayLegs());
 
+
+// This challenge is based on the use of Constructor Function
+
+function Bird() {
+  this.name = "Albert";
+  this.color = "blue";
+  this.numLegs = 2;
+}
+
+
+// Create a constructor, Dog, with properties name, color, and numLegs that are set to a string, a string, and a number, respectively.
+
+function Dog(){
+  this.name = "Frank";
+  this.color = "black";
+  this.numLegs = 4;
+}
