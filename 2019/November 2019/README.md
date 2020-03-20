@@ -4,12 +4,15 @@ This README file is to help me track the coding challenges for the month of Nove
 12 November 2019 - C
 
 19 March 2020 
-  - Object Oriented Programming: Extend Constructors to Receive Arguments
-  - Verify an Object's Constructor with instanceof
-  - Understand Own Properties
-  - Use Prototype Properties to Reduce Duplicate Code
+  - 1. Object Oriented Programming: Extend Constructors to Receive Arguments
+  - 2. Verify an Object's Constructor with instanceof
+  - 3. Understand Own Properties
+  - 4. Use Prototype Properties to Reduce Duplicate Code
   
 20 March 2020
-  - Iterate Over All Properties
-  - Add Items to an Array with push() and unshift()
-
+  - 1. Iterate Over All Properties
+  - 2. Add Items to an Array with push() and unshift()
+  - 3. Remove Items from an Array with pop() and shift()
+  - 4. Remove Items Using splice()
+  - 5. Add Items Using splice()
+  - 6. Copy Array Items Using slice()
