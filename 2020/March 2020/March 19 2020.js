@@ -15,7 +15,8 @@ function Dog(){
   this.numLegs = 4;
 }
 
-// We are trying to extend the Constructors to Receive Arguments. So we created a Dog constructor to take the 
+
+// 1.  We are trying to extend the Constructors to Receive Arguments. So we created a Dog constructor to take the 
 //arguements, name and color. 
 
 function Dog(name,color) {
@@ -27,6 +28,9 @@ function Dog(name,color) {
 let terrier = new Dog ( "Sam", "Black");
 
 console.log(terrier); // terrier will inherit the property "numLegs'. This number will ALWAYS be 4
+
+
+// 2. Verify an Object's Constructor with instanceof
 
 function House(numBedrooms) {
   this.numBedrooms = numBedrooms;
@@ -43,6 +47,8 @@ function Bird(name) {
   this.numLegs = 2;
 }
 
+// 3. Understand Own Properties
+
 let canary = new Bird("Tweety");
 let ownProps = [];
 // Only change code below this line
@@ -51,3 +57,17 @@ for (let property in canary) {
     ownProps.push(property);
   }
 }
+
+
+// 4. Use Prototype Properties to Reduce Duplicate Code
+
+function Dog(name) {
+  this.name = name;
+}
+Dog.prototype.numLegs = 2; // Adding this line of code adds the property to the Dog
+
+
+// Only change code above this line
+let beagle = new Dog("Snoopy");
+
+console.log(Dog.prototype.numLegs); // This results into 2 in the developer module
