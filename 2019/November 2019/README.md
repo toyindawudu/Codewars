@@ -11,4 +11,5 @@ This README file is to help me track the coding challenges for the month of Nove
   
 20 March 2020
   - Iterate Over All Properties
+  - Add Items to an Array with push() and unshift()
 
