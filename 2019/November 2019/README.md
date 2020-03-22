@@ -15,4 +15,7 @@ This README file is to help me track the coding challenges for the month of Nove
   - 3. Remove Items from an Array with pop() and shift()
   - 4. Remove Items Using splice()
   - 5. Add Items Using splice()
-  - 6. Copy Array Items Using slice()
+
+21 March 2020
+  - 1. Copy Array Items Using slice()
+  - 2. Copy an Array with the Spread Operator

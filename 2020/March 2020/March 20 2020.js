@@ -74,6 +74,6 @@ function htmlColorNames(arr) {
 console.log(htmlColorNames(['DarkGoldenRod', 'WhiteSmoke', 'LavenderBlush', 'PaleTurquoise', 'FireBrick']));
 
 
-// Copy Array Items Using slice()
+// 6. Copy Array Items Using slice()
 
 
