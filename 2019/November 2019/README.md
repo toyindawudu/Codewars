@@ -19,3 +19,9 @@ This README file is to help me track the coding challenges for the month of Nove
 21 March 2020
   - 1. Copy Array Items Using slice()
   - 2. Copy an Array with the Spread Operator
+
+23 March 2020
+
+  - 1. Combine Arrays with the Spread Operator
+  - 2. Check For The Presence of an Element With indexOf()
+  - 3. Iterate Through All an Array's Items Using For Loops
