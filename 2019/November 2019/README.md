@@ -24,4 +24,7 @@ This README file is to help me track the coding challenges for the month of Nove
 
   - 1. Combine Arrays with the Spread Operator
   - 2. Check For The Presence of an Element With indexOf()
-  - 3. Iterate Through All an Array's Items Using For Loops
+
+30 March 2020
+  - 1. Iterate Through All an Array's Items Using For Loops
+  

@@ -27,6 +27,4 @@ function quickCheck(arr, elem) {
 
 console.log(quickCheck(['squash', 'onions', 'shallots'], 'mushrooms'));
 
-// 3. Iterate Through All an Array's Items Using For Loops
-
 
