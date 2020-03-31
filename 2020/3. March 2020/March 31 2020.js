@@ -90,3 +90,25 @@ function randomRange(myMin, myMax) {
   return Math.floor(Math.random() * (myMax - myMin + 1)) + myMin;
   // Only change code above this line
 }
+
+
+// 6. Use the parseInt Function
+
+function convertToInteger(str) {
+
+  return parseInt(str); // This parses a strinf and returns an integer
+}
+
+convertToInteger("56");
+
+
+// 7. Use the parseInt Function with a Radix
+
+function convertToInteger(str) {
+  return parseInt(str,2); 
+}
+
+convertToInteger("10011");
+
+
+// 8. Use the Conditional (Ternary) Operator

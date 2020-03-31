@@ -35,4 +35,10 @@ This README file is to help me track the coding challenges for the month of Nove
   - 2. Profile Lookup
   - 3. Generate Random Fractions with JavaScript
   - 4. Generate Random Whole Numbers with JavaScript
-  - 5. Generate Random Whole Numbers within a Range 
+  - 5. Generate Random Whole Numbers within a Range
+  - 6. Use the parseInt Function
+  - 7. Use the parseInt Function with a Radix
+  - 8. Use the Conditional (Ternary) Operator
+
+1 April 2020
+  - 1. Use Multiple Conditional (Ternary) Operators
