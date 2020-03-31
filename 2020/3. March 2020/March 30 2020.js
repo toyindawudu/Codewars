@@ -22,7 +22,7 @@ function multiplyAll(arr) {
   for (let i = 0; i < arr.length; i++){
     // Create a secondary for loop for the primary
     for (let j = 0; j < arr[i].length; j++){
-      //multiply each element with product
+      // Multiply each element with product
       product = arr[i][j] * product;
     }
   }
@@ -30,3 +30,22 @@ function multiplyAll(arr) {
   // Only change code above this line
   return product;
 }
+
+
+// 3. Iterate with JavaScript Do...While Loops
+
+
+// Setup
+var myArray = [];
+var i = 10;
+
+// Only change code below this line
+
+do {
+  myArray.push(i);
+  i++
+} while (i < 11)
+
+
+
+

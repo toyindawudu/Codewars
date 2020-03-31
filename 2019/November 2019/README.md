@@ -27,4 +27,12 @@ This README file is to help me track the coding challenges for the month of Nove
 
 30 March 2020
   - 1. Iterate Through All an Array's Items Using For Loops
-  
+  - 2. Nesting For Loops
+  - 3. Iterate with JavaScript Do...While Loops
+
+31 March 2020
+  - 1. Replace Loops using Recursion
+  - 2. Profile Lookup
+  - 3. Generate Random Fractions with JavaScript
+  - 4. Generate Random Whole Numbers with JavaScript
+  - 5. Generate Random Whole Numbers within a Range 
