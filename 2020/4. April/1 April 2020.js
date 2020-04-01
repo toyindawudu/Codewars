@@ -4,9 +4,3 @@ function checkSign(num) {
 }
 
 checkSign(10);
-
-
-//2. Use Recursion to Create a Countdown
-
-
-
