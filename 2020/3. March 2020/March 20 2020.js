@@ -22,7 +22,7 @@ for (let property in beagle) {
 
 /////////////////
 
-//Decided to go back to the Basic structures  as I was struggling to remember
+//Decided to go back to the Basic structures as I was struggling to remember
 
 /////////////////////////
 

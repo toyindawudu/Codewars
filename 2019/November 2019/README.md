@@ -42,4 +42,7 @@ This README file is to help me track the coding challenges for the month of Nove
 
 1 April 2020
   - 1. Use Multiple Conditional (Ternary) Operators
-  - 2. Use Recursion to Create a Countdown
+
+2 April 2020
+  - 1. Beginner Series #1 School Paperwork - Codewars
+  - 2. Return the largest number in an array - Codewars
