@@ -44,5 +44,9 @@ This README file is to help me track the coding challenges for the month of Nove
   - 1. Use Multiple Conditional (Ternary) Operators
 
 2 April 2020
-  - 1. Beginner Series #1 School Paperwork - Codewars
-  - 2. Return the largest number in an array - Codewars
+  - 1. Beginner Series #1 School Paperwork - Codewars 8kyu
+  - 2. Return the largest number in an array - Codewars 8kyu
+
+5 April 2020
+  - 1. create your first JS function and print "Helloworld!" - Codewards 8kyu
+  - 2. Find the Difference in Age between Oldest and Youngest Family Members - 8 kyu
