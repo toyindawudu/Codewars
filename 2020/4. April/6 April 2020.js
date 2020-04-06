@@ -1,15 +1,27 @@
-//1. Higherst and Lowest
+//1. Highest and Lowest
 
 function highAndLow(numbers){
   // Initialise variables
-  let sortedNumbers = [];
+  let sortedNumbers = numbers;
+  let lowestNumber;
+  let highestNumber;
+
   // Split the string in the numbers
+  sortedNumbers = numbers.split(' ');
   // Sort string using the .sort() methods
-  sortedNumbers.push() = numbers.sort();
-  // Return the highest and lowest number in the string
-  return (sortedNumbers.length-1, sortedNumbers[0])
-  //
-  // ...
+
+  lowestNumber = sortedNumbers[0];
+  highestNumber = sortedNumbers.length-1;
+
+  // lowestNumbers = sortedNumbers.charCodeAt(0);
+  // highestNumber = sortedNumbers.charCodeAt(-1);
+
+  //result = highestNumber + ' ' + lowestNumber;
+
+  result = lowestNumber.concat(' ', highestNumber);
+
+  return result;
+
 }
 
-highAndLow("5 4 -4 3 1");
+console.log(highAndLow("5 4 -4 3 1"));
